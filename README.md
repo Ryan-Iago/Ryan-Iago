@@ -2,7 +2,7 @@
 
 Meu nome é Ryan Iago
 
-- Estou estudando pelo [Alura](https)
+- Estou estudando pelo [Alura](https://www.alura.com.br)
 - Assim deselvolvendo a linguagem JavaScript
 - Utilizando esse espaço acolhedor para compartilhar meus projetos desenvolvidos
 
